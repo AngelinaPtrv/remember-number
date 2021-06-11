@@ -85,7 +85,7 @@ export default {
 .visible_number {
   align-self: center;
   display: block;
-  font-size: 12vw;
+  font-size: 16vh;
   color: #00BFFF;
 }
 
