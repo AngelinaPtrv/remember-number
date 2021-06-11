@@ -1,24 +1,4 @@
-# remember-number
+<h2> Тренажер "Запомни число"</h2>
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+В правом блоке 2 поля для ввода - размерность числа и время показа.
+В левом сначала выводится случайное чило, затем поле для ввода. После нажатия Enter выводится результат.
